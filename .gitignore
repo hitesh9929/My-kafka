@@ -1,0 +1,6 @@
+test/__pycache__/a.cpython-310.pyc
+test
+cluster/brokers/b1/topics/
+cluster/brokers/b2/topics/
+cluster/brokers/b3/topics/
+README.md
